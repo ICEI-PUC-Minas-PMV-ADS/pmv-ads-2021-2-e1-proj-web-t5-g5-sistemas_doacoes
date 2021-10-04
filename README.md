@@ -67,74 +67,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 <img src =https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/camila.PNG>
 
- 
 
-
-Histórias de usuários
-A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários.
-
-| Eu como …  [PERSONA |  … quero/desejo … [O QUE] | … para .... [POR QUE]|
-| ------------------- | ------------------- |------------------- |
-| ------------------- | ------------------- |------------------- |
- 
-Eu como …  [PERSONA] |	… quero/desejo … [O QUE]	|… para .... [POR QUE]|
--------------------------------------------------------------------------------
-Camila Carvalho |	Encontrar pessoas |que necessitem de ajuda. |	Fornecer amparo a quem precise.
-Camila Carvalho	Poder contar minhas vivências e conhecer a história de outras pessoas.	Trocar experiências e saber como ajudar.
-Dênis Donato	Participar de trabalhos voluntários.	Conhecer o trabalho que é realizado e contribuir com o que for necessário.
-Dênis Donato	Encontrar instituições próximas a mim.	Oferecer trabalho voluntário.
-Luana Lemos	Um ambiente acessível.	Para divulgar atividades e projetos de ONGs.
-Luana Lemos	Organizar o destino das doações de ONGs.	Facilitar a rotina exercida.
-Luana Lemos	Gerenciar atividades das ONGs.	Acompanhar o andamento das doações.
-Jonathan Silva	Encontrar instituições confiáveis.	Fazer uma doação segura.
-Jonathan Silva	Facilidade de busca por instituições.	Melhor atender aos meus ideais.
-Raquel Dias	Acessar a instituição e seus projetos.	Acompanhar o projeto em que foi feita a doação.
-Raquel Dias	Doações direto na página através de boleto, cartões ou transferências bancárias.	Ter opções variadas para doar.
-Raquel Dias	Dados de localização das instituições.	Poder efetivar doação que não seja financeira.
-Requisitos do Projeto
-O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades de interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
-Requisitos Funcionais
-A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
- 
-ID	Descrição	Prioridade
-RF-01	O site deve permitir ao usuário escolher quais projetos ele pretende apoiar, seja educação, saúde, alimentação ou outros. 	Alta
-RF-02	O site deve permitir que ONGs se cadastrem e possam receber doações. 	Alta
-RF-03	O site deve impedir que instituições não confiáveis possam ser beneficiadas. 	Alta
-RF-04	O site deve fornecer informações geográficas das instituições cadastradas, possibilitando o apoio através de materiais ou serviços voluntários.	Média
-RF-05	O site deve permitir ao doador acompanhar os projetos e ações das entidades beneficiadas	Média
-RF-06	O site deve permitir ao público geral acompanhar a evolução do percentual de doações.	Média
-RF-07	O site deve permitir o depoimento das pessoas e empresas beneficiadas.	Média
-
-RF-08	O site deve permitir que as doações sejam feitas por boleto, cartão de crédito, PIX, transferência bancária, cartão de débito, PayPal e cupom.	Alta
-
-RF-09	O site deve ter um mecanismo de compartilhamento das páginas de doações por redes sociais e e-mails	Alta
-
-RF-10	O site deve permitir a busca pelo código ou ID para facilitar a busca de uma campanha específica.	Média
-
-RF-11	O site deve ter uma página de perfil contato a história, novidades sobre o caso, depoimento de doadores e permitir que conste o nome do doador na campanha	Alta
-
-RF-12	O site deve permitir o cadastro de uma meta de arrecadação e demonstrar quanto já foi doado.	Alta
-Requisitos não funcionais
-A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
- 
-ID	Descrição	Prioridade
-RNF-01	O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku).	Alta
-RNF-02	O site deverá ser responsivo permitindo a visualização em um celular de forma adequada.	Alta
-RNF-03	O site deve ter bom nível de contraste entre os elementos da tela em conformidade.	Média
-RNF-04	O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge).	Alta
-RNF-05	O site deve estar de acordo com a Lei Geral de Uso e Proteção de Dados.	Alta
-
-Restrições 
-As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
- 
-ID	Descrição
-RE-01	O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 05/12/2021.
-RE-02	O aplicativo deve se restringir às tecnologias básicas da Web no Back-End
-RE-03	A equipe não pode subcontratar o desenvolvimento do trabalho.
-RE-04	O projeto não pode ser usado ou concebido com finalidades políticas.
- 
-Diagramas de Casos de Uso
-O diagrama contempla as principais ligações previstas entre casos de uso e atores e permite detalhar os Requisitos Funcionais identificados na etapa de elicitação. Lembrando que não se utiliza diagramas de caso de uso para requisitos não-funcionais (Figura 1).
 
 
 Metodologia  </p>
