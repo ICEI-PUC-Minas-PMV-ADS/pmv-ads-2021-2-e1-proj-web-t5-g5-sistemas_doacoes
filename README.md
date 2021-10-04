@@ -103,6 +103,11 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 
 <img src =https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/restri%C3%A7%C3%A3o.PNG></p>
 
+## Diagramas de Casos de Uso </p>
+
+O diagrama contempla as principais ligações previstas entre casos de uso e atores e permite detalhar os Requisitos Funcionais identificados na etapa de elicitação. Lembrando que não se utiliza diagramas de caso de uso para requisitos não-funcionais (Figura 1).</p>
+
+
 
 
 
