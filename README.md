@@ -200,17 +200,39 @@ Tela – Cadastro de funções bancárias (boleto, crédito, débito, pix, paypa
 
 Tela – Meta de doações
 
-<img src =https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/wireframe%20-%20meta%20doa%C3%A7%C3%A3o.PNG></p>
+<img src = https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/wireframe%20-%20meta%20doa%C3%A7%C3%A3o.PNG>></p>
 
 ## Diagrama Entidade - Relacionamento 
 
-<img src =https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/Diagrama%20entidade%20relacionamento.PNG</p>
+<img src = https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/Diagrama%20entidade%20relacionamento.PNG></p>
 
 ## Esquema Relacional do Banco de Dados 
 
-<img src =https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/Esquema%20Relacional%20do%20BD%201.PNG</p>
+<img src = https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/Esquema%20Relacional%20do%20BD%201.PNG></p>
 
-<img src =https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/Esquema%20Relacional%20do%20BD%202.PNG</p>
+<img src =https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/Esquema%20Relacional%20do%20BD%202.PNG></p>
+
+## Plano de Testes de Software 
+
+Os testes funcionais a serem realizados no sistema são descritos a seguir.
+
+
+<img src = https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/Caso%20Teste%201.PNG></p>
+
+
+<img src = https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/Caso%20Teste%202.PNG></p>
+
+
+<img src = https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/Caso%20Teste%203.PNG></p>
+
+
+<img src = https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/Caso%20Teste%204.PNG></p>
+
+
+<img src = https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/Caso%20Teste%205.PNG></p>
+
+
+
 
 Arquitetura da Solução  </p>
 Template padrão do Site  </p>
