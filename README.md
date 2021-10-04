@@ -178,6 +178,31 @@ O diagrama de classes demonstrado na figura abaixo demonstra as os tipos e orige
 
 <img src =https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/diagrama%20de%20classe.PNG></p>
 
+## Wireframes interativos</p>
+
+Conforme diagrama de fluxo do projeto, apresentado nos itens anteriores, as telas do sistema são apresentadas em detalhes nos itens que se seguem.
+
+Tela – Home Page
+
+<img src =https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/wiframe%20-%20home%20page.PNG></p>
+
+Tela – Cadastro do Usuário
+
+<img src =https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/wireframe%20-%20cadastro%20do%20usu%C3%A1rio.PNG></p>
+
+Tela – Cadastro de Projeto
+
+<img src =https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/Wireframe%20-%20cadastro%20de%20projeto.PNG></p>
+
+Tela – Cadastro de funções bancárias (boleto, crédito, débito, pix, paypal e cupons)
+
+<img src =https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/wireframe%20-%20cadastro%20banc%C3%A1rio.PNG></p>
+
+Tela – Meta de doações
+
+<img src =https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/wireframe%20-%20meta%20doa%C3%A7%C3%A3o.PNG></p>
+
+## Diagrama Entidade - Relacionamento 
 
 
 
