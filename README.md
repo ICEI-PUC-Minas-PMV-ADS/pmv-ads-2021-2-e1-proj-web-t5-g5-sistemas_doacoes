@@ -1,2 +1,20 @@
-# pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doa-es
-Sistemas de Doações - Grupo 5 - Professor José Wilson da Costa
+TECNÓLOGO EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+EIXO 2 – ANÁLISE E PROJETO DE SISTEMAS DE SOFTWARE
+
+PROJETO: DESENVOLVIMENTO DE UMA APLICAÇÃO INTERATIVA
+
+
+
+
+
+
+SISTEMA DE GESTÃO DE DOAÇÕES
+
+
+Bruno Medeiros
+Igor Vicente Machado
+Leandro Ângelo Scardoelli
+Tobias Gabriel Abreu Faria
+
+Orientador: Prof. José Wilson da Costa
+
