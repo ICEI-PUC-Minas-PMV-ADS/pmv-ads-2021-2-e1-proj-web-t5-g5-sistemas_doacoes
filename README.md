@@ -77,6 +77,13 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 <img src = https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/camila.PNG></p>
 
+## Histórias de usuários </p>
+
+A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários.
+
+
+
+
 
 
 
