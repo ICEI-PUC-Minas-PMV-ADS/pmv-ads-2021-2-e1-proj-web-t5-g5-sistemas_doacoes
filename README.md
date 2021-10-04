@@ -60,7 +60,119 @@ O foco deste trabalho está em disponibilizar uma ferramenta de interação para
 Desta forma foi estabelecido como público-alvo homens e mulheres com mais de 18 anos que tenham vontade de participar de projetos sociais através de doação de recursos financeiros, materiais ou serviços voluntários, e pessoas jurídicas que valorizam a promoção do bem-estar social e queriam contribuir através de doações diretas (financeiras e não financeiras), doações por renúncia fiscal e voluntariado empresarial. Por fim, também é alvo deste projeto, todas as entidades sem fins lucrativos que geram impacto positivo na sociedade e tenham interesse em dar visibilidade a sua causa.
 2.	Especificação do Projeto
 
-Especificação do Projeto  </p>
+## Especificação do Projeto  </p>
+
+Personas </p>
+As personas levantadas durante o processo de entendimento do problema são apresentadas abaixo. </p>
+
+ 	Camila Carvalho
+	DADOS	MOTIVAÇÃO
+	Idade: 36 anos
+Ocupação: Proprietária de um pet shop	Encontrar pessoas ou famílias de baixa renda que necessitem de auxílio para alimentar ou cuidar dos seus animais de estimação.
+APLICATIVOS QUE MAIS USA	FRUSTRAÇÃO	HOBBIES, HISTÓRIA
+•	Instagram
+•	Twitter	Não saber onde procurar pessoas que possam ser amparadas pela empresa.	Gosta de ler, viajar e meditar. Sempre teve paixão por animais, e por isso graduou-se em Med. Veterinária.</p>
+
+ 	Dênis Donato
+	DADOS	MOTIVAÇÃO
+	Idade: 19 anos
+Ocupação: Estudante	Participar de projetos voluntários para ajudar as pessoas e enriquecer o currículo pessoal e profissional.
+APLICATIVOS QUE MAIS USA	FRUSTRAÇÃO	HOBBIES, HISTÓRIA
+•	Instagram
+•	Tik-Tok
+•	Twitter	Por não conhecer pessoas já inseridas em ONGs, não sabe como ingressar neste meio, e nem qual trabalho tem o seu perfil.	Pratica esportes e games online. Tem afinidade pela área das Ciências Humanas.</p>
+
+ 	Luana Lemos
+	DADOS	MOTIVAÇÃO
+	Idade: 45 anos
+Ocupação: Professora e ativista de projetos de ajuda humanitária	Melhorar o planejamento das atividades da ONG que gerencia.
+APLICATIVOS QUE MAIS USA	FRUSTRAÇÃO	HOBBIES, HISTÓRIA
+•	Facebook
+•	Instagram	Por tentar atender muitas demandas, tem dificuldade de organizar o destino das doações da ONG que gerencia.	Entusiasta de divulgação científica. Mãe de duas crianças, se dedica aos finais de semana a ajudar pessoas mais pobres, liderando campanhas de arrecadação de alimentos e roupas.
+
+ 	Jonathan Silva
+	DADOS	MOTIVAÇÃO
+	Idade: 87 anos
+Ocupação: Aposentado	Ajudar através de doações periódicas instituições com bons projetos.
+APLICATIVOS QUE MAIS USA	FRUSTRAÇÃO	HOBBIES, HISTÓRIA
+•	Facebook	Não conseguir acompanhar todas as instituições próximas, nem ter informações sobre elas.	Gosta de leitura e fazer amizades. Há muito tempo manifesta interesse em participar de trabalhos voluntários em ONGs e entidades afins.
+
+ 	Raquel Dias
+	DADOS	MOTIVAÇÃO
+	Idade: 24 anos
+Ocupação: Advogada	Ajudar na promoção de campanhas para o bem-estar social.
+APLICATIVOS QUE MAIS USA	FRUSTRAÇÃO	HOBBIES, HISTÓRIA
+•	Facebook
+•	Instagram
+•	Twitter	Não conseguir organizar o destino das arrecadações das campanhas de forma a atender uma grande variedade de pessoas necessitadas.	Advogada especializada em Direito Civil e com experiência em diferentes projetos do terceiro setor. É militante da causa da proteção à mulher e proteção de grupos em condição de fragilidade social e alimentar.
+
+Histórias de usuários
+A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários.
+
+| Eu como …  [PERSONA |  … quero/desejo … [O QUE] | … para .... [POR QUE]|
+| ------------------- | ------------------- |------------------- |
+| ------------------- | ------------------- |------------------- |
+ 
+Eu como …  [PERSONA] |	… quero/desejo … [O QUE]	|… para .... [POR QUE]|
+-------------------------------------------------------------------------------
+Camila Carvalho |	Encontrar pessoas |que necessitem de ajuda. |	Fornecer amparo a quem precise.
+Camila Carvalho	Poder contar minhas vivências e conhecer a história de outras pessoas.	Trocar experiências e saber como ajudar.
+Dênis Donato	Participar de trabalhos voluntários.	Conhecer o trabalho que é realizado e contribuir com o que for necessário.
+Dênis Donato	Encontrar instituições próximas a mim.	Oferecer trabalho voluntário.
+Luana Lemos	Um ambiente acessível.	Para divulgar atividades e projetos de ONGs.
+Luana Lemos	Organizar o destino das doações de ONGs.	Facilitar a rotina exercida.
+Luana Lemos	Gerenciar atividades das ONGs.	Acompanhar o andamento das doações.
+Jonathan Silva	Encontrar instituições confiáveis.	Fazer uma doação segura.
+Jonathan Silva	Facilidade de busca por instituições.	Melhor atender aos meus ideais.
+Raquel Dias	Acessar a instituição e seus projetos.	Acompanhar o projeto em que foi feita a doação.
+Raquel Dias	Doações direto na página através de boleto, cartões ou transferências bancárias.	Ter opções variadas para doar.
+Raquel Dias	Dados de localização das instituições.	Poder efetivar doação que não seja financeira.
+Requisitos do Projeto
+O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades de interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
+Requisitos Funcionais
+A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
+ 
+ID	Descrição	Prioridade
+RF-01	O site deve permitir ao usuário escolher quais projetos ele pretende apoiar, seja educação, saúde, alimentação ou outros. 	Alta
+RF-02	O site deve permitir que ONGs se cadastrem e possam receber doações. 	Alta
+RF-03	O site deve impedir que instituições não confiáveis possam ser beneficiadas. 	Alta
+RF-04	O site deve fornecer informações geográficas das instituições cadastradas, possibilitando o apoio através de materiais ou serviços voluntários.	Média
+RF-05	O site deve permitir ao doador acompanhar os projetos e ações das entidades beneficiadas	Média
+RF-06	O site deve permitir ao público geral acompanhar a evolução do percentual de doações.	Média
+RF-07	O site deve permitir o depoimento das pessoas e empresas beneficiadas.	Média
+
+RF-08	O site deve permitir que as doações sejam feitas por boleto, cartão de crédito, PIX, transferência bancária, cartão de débito, PayPal e cupom.	Alta
+
+RF-09	O site deve ter um mecanismo de compartilhamento das páginas de doações por redes sociais e e-mails	Alta
+
+RF-10	O site deve permitir a busca pelo código ou ID para facilitar a busca de uma campanha específica.	Média
+
+RF-11	O site deve ter uma página de perfil contato a história, novidades sobre o caso, depoimento de doadores e permitir que conste o nome do doador na campanha	Alta
+
+RF-12	O site deve permitir o cadastro de uma meta de arrecadação e demonstrar quanto já foi doado.	Alta
+Requisitos não funcionais
+A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
+ 
+ID	Descrição	Prioridade
+RNF-01	O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku).	Alta
+RNF-02	O site deverá ser responsivo permitindo a visualização em um celular de forma adequada.	Alta
+RNF-03	O site deve ter bom nível de contraste entre os elementos da tela em conformidade.	Média
+RNF-04	O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge).	Alta
+RNF-05	O site deve estar de acordo com a Lei Geral de Uso e Proteção de Dados.	Alta
+
+Restrições 
+As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
+ 
+ID	Descrição
+RE-01	O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 05/12/2021.
+RE-02	O aplicativo deve se restringir às tecnologias básicas da Web no Back-End
+RE-03	A equipe não pode subcontratar o desenvolvimento do trabalho.
+RE-04	O projeto não pode ser usado ou concebido com finalidades políticas.
+ 
+Diagramas de Casos de Uso
+O diagrama contempla as principais ligações previstas entre casos de uso e atores e permite detalhar os Requisitos Funcionais identificados na etapa de elicitação. Lembrando que não se utiliza diagramas de caso de uso para requisitos não-funcionais (Figura 1).
+
+
 Metodologia  </p>
 Projeto de Interface  </p>
 Arquitetura da Solução  </p>
