@@ -204,8 +204,13 @@ Tela – Meta de doações
 
 ## Diagrama Entidade - Relacionamento 
 
+<img src =https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/Diagrama%20entidade%20relacionamento.PNG</p>
 
+## Esquema Relacional do Banco de Dados 
 
+<img src =https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/Esquema%20Relacional%20do%20BD%201.PNG</p>
+
+<img src =https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/Esquema%20Relacional%20do%20BD%202.PNG</p>
 
 Arquitetura da Solução  </p>
 Template padrão do Site  </p>
