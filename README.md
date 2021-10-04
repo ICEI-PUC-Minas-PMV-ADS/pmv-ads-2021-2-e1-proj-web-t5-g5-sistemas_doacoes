@@ -231,6 +231,28 @@ Os testes funcionais a serem realizados no sistema são descritos a seguir.
 
 <img src = https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/Caso%20Teste%205.PNG></p>
 
+## Registro dos Testes de Software 
+
+Os resultados obtidos nos testes de software realizados são descritos abaixo.
+
+## Plano de Testes de Usabilidade 
+
+O planejamento de testes de usabilidade a serem realizados com usuários são descritos na Tabela a seguir
+
+<img src = https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/Teste%20de%20Usabilidade.PNG></p>
+
+<img src = https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/Teste%20de%20Usabilidade%20P%C3%BAblco%20Alvo.PNG></p>
+
+## Registro de Testes de Usabilidade 
+
+Os resultados obtidos nos testes de usabilidade realizados são descritos na Tabela a seguir.
+
+•	Relatório com detalhamento das pessoas envolvidas no teste (indicar claramente o número de usuários que testaram o sistema)
+•	Relatório com registro de testes feitos: fotos, prints de telas, relatos dos usuários
+•	Relatório de problemas identificados nos testes e propostas de correções/ajustes
+
+<img src = https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/Registro%20Teste%20de%20Uso.PNG></p>
+
 
 
 
