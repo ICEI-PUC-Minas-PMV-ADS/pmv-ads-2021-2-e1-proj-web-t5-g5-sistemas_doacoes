@@ -81,6 +81,17 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários.
 
+<img src = https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/personas_tabela.PNG></p>
+
+## Requisitos do Projeto</p>
+
+O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades de interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.</p>
+
+## Requisitos Funcionais</p>
+
+A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
+
+
 
 
 
