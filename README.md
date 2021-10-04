@@ -91,6 +91,18 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 
 A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
 
+<img src =https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/requisitos_func.PNG></p>
+
+## Requisitos não funcionais</p>
+A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
+
+<img src =https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/requisitos_nfunci.PNG></p>
+
+## Restrições</p>
+As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
+
+<img src =https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/restri%C3%A7%C3%A3o.PNG></p>
+
 
 
 
