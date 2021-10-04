@@ -153,12 +153,23 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 
 	O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/b/LupglzUz/tiaw-template e é apresentado, no estado atual, na Figura X. A definição desta estrutura se baseou na proposta feita por Littlefield (2016).
 
+<img src =https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-sistemas_doacoes/blob/main/img/trello.PNG></p>
+
+A tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:
+
+1.	Documentação
+2.	Desenvolvimento 
+3.	Infraestrutura
+4.	Testes
+5.	Gerência de Projetos.
+
+## Projeto Interface</p>
+Tendo em vista o perfil de usuários que acessarão a plataforma, o objetivo foi estabelecer soluções intuitivas e amigáveis a eles que, de certa forma, possuem dificuldade com o uso da tecnologia. Trabalhamos com a ideia de facilitar a usabilidade, navegação e transição de telas, buscando incrementar e permitir a melhor experiência do usuário na plataforma, pautando sempre em suavizar o acesso às informações.</p>
 
 
 
 
 
-Projeto de Interface  </p>
 Arquitetura da Solução  </p>
 Template padrão do Site  </p>
 Programação de Funcionalidades  </p>
