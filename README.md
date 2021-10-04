@@ -65,46 +65,9 @@ Desta forma foi estabelecido como público-alvo homens e mulheres com mais de 18
 Personas </p>
 As personas levantadas durante o processo de entendimento do problema são apresentadas abaixo. </p>
 
- 	Camila Carvalho
-	DADOS	MOTIVAÇÃO
-	Idade: 36 anos
-Ocupação: Proprietária de um pet shop	Encontrar pessoas ou famílias de baixa renda que necessitem de auxílio para alimentar ou cuidar dos seus animais de estimação.
-APLICATIVOS QUE MAIS USA	FRUSTRAÇÃO	HOBBIES, HISTÓRIA
-•	Instagram
-•	Twitter	Não saber onde procurar pessoas que possam ser amparadas pela empresa.	Gosta de ler, viajar e meditar. Sempre teve paixão por animais, e por isso graduou-se em Med. Veterinária.</p>
 
- 	Dênis Donato
-	DADOS	MOTIVAÇÃO
-	Idade: 19 anos
-Ocupação: Estudante	Participar de projetos voluntários para ajudar as pessoas e enriquecer o currículo pessoal e profissional.
-APLICATIVOS QUE MAIS USA	FRUSTRAÇÃO	HOBBIES, HISTÓRIA
-•	Instagram
-•	Tik-Tok
-•	Twitter	Por não conhecer pessoas já inseridas em ONGs, não sabe como ingressar neste meio, e nem qual trabalho tem o seu perfil.	Pratica esportes e games online. Tem afinidade pela área das Ciências Humanas.</p>
+ 
 
- 	Luana Lemos
-	DADOS	MOTIVAÇÃO
-	Idade: 45 anos
-Ocupação: Professora e ativista de projetos de ajuda humanitária	Melhorar o planejamento das atividades da ONG que gerencia.
-APLICATIVOS QUE MAIS USA	FRUSTRAÇÃO	HOBBIES, HISTÓRIA
-•	Facebook
-•	Instagram	Por tentar atender muitas demandas, tem dificuldade de organizar o destino das doações da ONG que gerencia.	Entusiasta de divulgação científica. Mãe de duas crianças, se dedica aos finais de semana a ajudar pessoas mais pobres, liderando campanhas de arrecadação de alimentos e roupas.
-
- 	Jonathan Silva
-	DADOS	MOTIVAÇÃO
-	Idade: 87 anos
-Ocupação: Aposentado	Ajudar através de doações periódicas instituições com bons projetos.
-APLICATIVOS QUE MAIS USA	FRUSTRAÇÃO	HOBBIES, HISTÓRIA
-•	Facebook	Não conseguir acompanhar todas as instituições próximas, nem ter informações sobre elas.	Gosta de leitura e fazer amizades. Há muito tempo manifesta interesse em participar de trabalhos voluntários em ONGs e entidades afins.
-
- 	Raquel Dias
-	DADOS	MOTIVAÇÃO
-	Idade: 24 anos
-Ocupação: Advogada	Ajudar na promoção de campanhas para o bem-estar social.
-APLICATIVOS QUE MAIS USA	FRUSTRAÇÃO	HOBBIES, HISTÓRIA
-•	Facebook
-•	Instagram
-•	Twitter	Não conseguir organizar o destino das arrecadações das campanhas de forma a atender uma grande variedade de pessoas necessitadas.	Advogada especializada em Direito Civil e com experiência em diferentes projetos do terceiro setor. É militante da causa da proteção à mulher e proteção de grupos em condição de fragilidade social e alimentar.
 
 Histórias de usuários
 A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários.
